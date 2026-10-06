@@ -1,0 +1,6 @@
+{
+  "name": "MySchoolTN - Écoles, Enseignants & Parents",
+  "description": "Plateforme éducative tunisienne : espace enseignant (appel, travail à la maison, notes), portail parents synchronisé en temps réel, alertes absences et WhatsApp (+216), gestion administrative et financière en dinars tunisiens (DT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
